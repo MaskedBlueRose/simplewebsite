@@ -9,5 +9,12 @@
   color: white;
   font-size: 30px;
 }
+.omori-gif {
+  display: block;
+  margin: 20px auto;
+  position: relative;
+  left: 50px;
+  top: 30px; 
+}
 </body>
 </html>
