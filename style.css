@@ -1,14 +1,15 @@
 <html lang="en">
 <head>
 </head>
-<body>
-.header {
+<body> {
   font-family: "Comic Sans MS";
+.header {
   padding: 60px;
   text-align: center;
   background: #1abc9c;
   color: white;
   font-size: 30px;
+}
 }
 .omori-gif {
   display: block;
